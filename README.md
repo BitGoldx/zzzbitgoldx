@@ -1,3 +1,3 @@
-BitGold ($XAU) Minimal, Anon, Meme coin. 
-Roadmap: GameFi Cloud Miner
+BitGold ($XAU) Minimal, Anon, Meme coin. <br>
+Roadmap: GameFi Cloud Miner <br>
 https://bitgoldx.gold
