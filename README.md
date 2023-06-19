@@ -9,5 +9,5 @@ Roadmap: Building a Google Chrome App with
 - Simple QR-Code Peer-to-Peer Payments
 - Social Media Money (Support your fav channel)
 - Earn FREE BitGold ($BTG) by social sharing
-- 
+  
 https://bitgoldx.gold
